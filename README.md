@@ -26,7 +26,7 @@ tools.
 - Which department had the highest treatment cost per diagnosis?
 - Which diagnosis has the highest cost associated with it?
 - Which department has the lowest healing rate compared to attendance?
-- <a href="https://github.com/Sarjilsatware/Medical-Data-Analytics/blob/main/medical%20dashboard.jpeg">Dashboard View</a>
+- <a href="https://github.com/arjunzore09/Data_Analysis_Project_Medical_Data/blob/main/medical%20dashboard.jpeg">Dashboard View</a>
 ## Procedure
 - Create Database by using My sql community version
 -  Insert Content (1-100) Rows
@@ -39,7 +39,7 @@ tools.
 -  By using Power bi Imported data
 -  Power query Editor (ETL)
 -  Used Dax formula
--  Dashboard <a href="https://github.com/Sarjilsatware/Medical-Data-Analytics/blob/main/medical%20dashboard.jpeg">Dashboard View</a>
+-  Dashboard <a href="https://github.com/arjunzore09/Data_Analysis_Project_Medical_Data/blob/main/medical%20dashboard.jpeg">Dashboard View</a>
 ## Conclusion
 This Power BI project provides valuable insights into medical data analysis,
 enabling healthcare professionals and organizations to make more informed
