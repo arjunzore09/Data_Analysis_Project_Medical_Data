@@ -15,7 +15,7 @@ tools.
 - FOR DATA IMPORT & EXPORT: EXCEL
 - FOR DATA VISUALIZATION: POWERBI
 ## Dataset used
-<a href="https://github.com/Sarjilsatware/Medical-Data-Analytics/blob/main/FINAL_MEDICAL_DATA.xlsx">Dataset</a>
+<a href="https://github.com/arjunzore09/Data_Analysis_Project_Medical_Data/blob/main/FINAL_MEDICAL_DATA.xlsx">Dataset</a>
 ## Questions (KPI)
 - How many total patients were attended during 2021–2025?
 - Which hospital attended the highest number of patients?
